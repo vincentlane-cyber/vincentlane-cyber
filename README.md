@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## My first attempt at fully coding a website :D
 <!--
 **vincentlane-cyber/vincentlane-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
